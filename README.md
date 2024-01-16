@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar Mourya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Baladitya Ramanuj Dhaka</h1>
+<h3 align="center">A passionate problem solver from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-bhai007&label=Profile%20views&color=0e75b6&style=flat" alt="surya-bhai007" /> </p>
@@ -38,10 +38,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Bhai007&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Surya-Bhai007&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bala1014&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Surya-Bhai007&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Bala1014&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 
 
