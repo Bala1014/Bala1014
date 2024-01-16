@@ -33,9 +33,9 @@
 	
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Surya-Bhai007&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Surya-Bhai007&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Bhai007&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bala1014&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bala1014&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bala1014&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bala1014&theme=discord&no-frame=false&no-bg=false&margin-w=4)
