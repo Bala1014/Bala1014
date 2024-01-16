@@ -7,9 +7,9 @@
 <!-- <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
 <h2 align="left">💫 About Me:</h2>
--🔭 I’m current working on <a href="https://github.com/Surya-Bhai007/FOOD__VILLA">🍻Food Villa</a> 
+-🔭 I’m current working on <!--<a href="https://github.com/Surya-Bhai007/FOOD__VILLA">-->My own Portfolio</a> 
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-🏫 I’m currently learning React js from Namaste React Live Course by Akshay Saini<br><br>👨‍💻 All of my projects are available at My Portfolio(currently under construction)<br><br>💬 Ask me about Full Stack Development.<br><br>✉️You can contact me at *surajkumar9891677@gmail.com*
+🏫 I’m currently learning React js from Namaste React Live Course by Akshay Saini<br><br>👨‍💻 All of my projects are available at My Portfolio(currently under construction)<br><br>💬 Ask me about Full Stack Development.<br><br>✉️You can contact me at *dhakabaladitya@gmail.com*
 
 
 
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suraj-kumar-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-mourya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/skmlps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/skmlps?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/surya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="surya_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/skmlps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skmlps" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/surajkumar9891677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajkumar9891677" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/baladitya-ramanuj-dhaka-ba2a58210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-mourya" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/skmlps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/skmlps?hr_r=1" height="30" width="40" /></a> -->
+<!-- <a href="https://codeforces.com/profile/surya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="surya_" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/baladitya_dhaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skmlps" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dhakabalkwcd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajkumar9891677" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
